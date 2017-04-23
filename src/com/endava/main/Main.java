@@ -33,6 +33,5 @@ public class Main {
         dataUtils.fillArray(charArray);
         dataUtils.sortArray(charArray);
         dataUtils.printArray(charArray);
-
-        }
+    }
 }
